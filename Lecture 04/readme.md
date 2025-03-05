@@ -13,7 +13,7 @@
  * 
  * Input: Two integers from the user.
  * Output: Displays the results of the addition, subtraction, and multiplication operations.
- * 
+ 
  * Example:
  * If the user enters:
  * Enter the 1st Value: 10
