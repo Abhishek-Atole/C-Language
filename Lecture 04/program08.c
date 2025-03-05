@@ -10,7 +10,7 @@ int Addition(int No1, int No2)
 
 int main()
 {
-    int value1 = 11, value2 = 22;  // Initializing two local variables with some values
+    int value1 = 0, value2 = 0;  // Initializing two local variables with some values
     int Ret = 0;                    // To store the result of the addition
 
     // Taking input from the user for the two values
