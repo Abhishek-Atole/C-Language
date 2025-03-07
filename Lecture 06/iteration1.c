@@ -2,9 +2,9 @@
 int main()
 {
     int i=0;
-    for(i=0;i<=50;i++)
+    for(i=3;i<=5;i++)
     {
-        printf("Jay Ganesh .. \n");
+        printf("Jay Ganesh .. %d \n",i);
     }
     return 0;
 }
