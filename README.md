@@ -72,5 +72,5 @@ C remains one of the **most powerful and widely used programming languages** in 
 
 ---
 
-Would you like to add more details or include examples of C programs from different eras?
+
 
