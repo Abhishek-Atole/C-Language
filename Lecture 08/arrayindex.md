@@ -97,5 +97,3 @@ So, **zero-based indexing is not just a convention, but a design choice that imp
 
 ### **Extra Fact**
 If array indexing started from `1`, **all element accesses would require an extra subtraction**, leading to **unnecessary complexity and inefficiency** in memory calculations.
-
-Let me know if you need further clarification!
