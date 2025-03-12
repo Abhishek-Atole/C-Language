@@ -1,6 +1,25 @@
-# **📌 Detailed Explanation of `return 0`, `return 1`, `return -1`, and `int main()` in C**  
+# **🚀 Generating Intermediate Files (.i, .s, .o, etc.) During C Compilation** 
 
 ---
+
+![x86 Toolchain](./images/c-program.png)
+
+# Explanation of a Simple C Program
+
+- `#include` is used to include the necessary header files.
+- `stdio.h` is the header file that contains functions for standard input-output operations.
+- `int` indicates the return type of the `main` function.
+- `main` is the name of the entry point function where the execution of the program begins.
+- The function block is enclosed in curly brackets `{}`.
+- `printf` is the function responsible for displaying data on the screen.
+- `\n` is used to insert a new line on the screen.
+- A semicolon `;` at the end of a line is mandatory to indicate the end of that statement.
+- The data within double quotes `""` is considered a **string** to be displayed on the screen.
+- `return 0` at the end of the `main` function indicates the **successful execution** of the program, returning `0` to the operating system.
+
+
+
+
 
 ## **✅ Understanding `int main()` and Return Values in C**
 In C programming, the `main()` function is where execution **starts and ends**. It is declared as:  
@@ -128,3 +147,11 @@ The `main()` function is the **starting point** of a C program. Here’s what ha
 - Using **proper return values** helps in **debugging** and makes the program **more professional**.
 
 Now you understand **why `main()` uses `int` and the importance of return values**! 🎯🚀
+
+---
+
+# **📌 GitHub Repository Details**  
+
+📂 **Repo Name**: `C-Language`  
+👤 **Owner**: [Abhishek Atole](https://github.com/Abhishek-Atole)  
+🔗 **GitHub Link**: [C-Language Repository](https://github.com/Abhishek-Atole/C-Language.git)  
