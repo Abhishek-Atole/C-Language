@@ -197,3 +197,8 @@ int main() {
 
 This documentation now includes **1D, 2D, 3D, and 4D arrays** with real-world examples, explanations, and code snippets with **copy buttons**! 🚀  
 
+**GitHub Repository** details:  
+
+- **Repo Name**: `C-Language`  
+- **Owner**: [Abhishek Atole](https://github.com/Abhishek-Atole)  
+- **GitHub Link**: [C-Language Repository](https://github.com/Abhishek-Atole/C-Language.git)  
