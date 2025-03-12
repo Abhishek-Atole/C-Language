@@ -1,7 +1,3 @@
-Yes! The process of writing, compiling, linking, and executing a C program follows a **12-step toolchain process** in an **x86 system**. Here's a **detailed breakdown** of each step:
-
----
-
 ## **🔥 The 12-Step Journey of a C Program Execution in x86 Architecture 🔥**  
 
 ### **📝 Step 1: Writing the Code (Source Code)**

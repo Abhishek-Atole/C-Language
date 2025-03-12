@@ -1,6 +1,4 @@
-**Computer Fundamentals, Computer Architecture, and GCC Toolchain**, followed by your **GitHub details** at the end. 🚀  
 
----
 
 # 📌 **Computer Fundamentals, Computer Architecture, and GCC Toolchain**  
 
